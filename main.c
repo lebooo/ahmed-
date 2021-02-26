@@ -7,6 +7,7 @@ int main()
 {
 
 int x = 10 ;
+int y = 10 ;
 
 scanf("%d" , &x);
 printf("%d" , x);
